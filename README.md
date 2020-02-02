@@ -1,12 +1,11 @@
 <p align="center">
   <img width="345" height="91" src="https://i.imgur.com/9fUeEzl.gif">
 </p>
-<p align="center">
-#Global Game Jam 2020 - "Repair"
-</p>
-<p align="center"><b>
-##Josh H (Programming and 'art'), Kieran W (UI) and Dec T (Programming).
-</p>
+<h1 align="center">Global Game Jam 2020 - "Repair"</h1>
+
+
+<h3 align="center">Josh H (Programming and 'art'), Kieran W (UI) and Dec T (Programming).</h2>
+
 
 
 Made in 100% Processing 3 (Java).
